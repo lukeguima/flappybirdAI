@@ -11,5 +11,4 @@ Fazer download do Visual Studio Code: https://code.visualstudio.com/Download  (I
 Criar conta no TensorFlow (Ainda não implementado) <br />
 
 ### Resultado do projeto:
-https://user-images.githubusercontent.com/29000780/172212535-c34dc001-057d-46a6-942a-59304bfbd0de.mp4
-
+![playVideo](https://user-images.githubusercontent.com/29000780/172212649-cfa12add-6d86-4b87-a117-c7011f4c6d4d.gif)
