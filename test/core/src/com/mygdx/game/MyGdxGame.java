@@ -95,14 +95,10 @@ public class MyGdxGame extends ApplicationAdapter {
 					+ alturaentreOsCanosRandomica;
 			float randomCanoTopo = alturaDispositivo / 2 + espacoEntreCanos / 2 + alturaentreOsCanosRandomica;
 
-			// Bird jogando sozinho
 			float vetorCanoBaixo = randomCanoBaixo;
 			float vetorCanoTopo = randomCanoTopo;
-			System.out.printf("retanguloCanoBaixo %f \n", vetorCanoBaixo);
-			System.out.printf("retanguloCanoTopo %f \n", vetorCanoTopo);
-			System.out.printf("posicaoInicialVertical %f \n", posicaoInicialVertical);
 			float decidaoBird = posicaoInicialVertical + 80;
-			System.out.printf("decidaoBird %f \n", decidaoBird);
+			
 			if (decidaoBird < vetorCanoTopo) {
 				velocidadeDeQueda = -2;
 			} else {
