@@ -2,7 +2,7 @@
 Desenvolvido como método de avaliação da disciplina Interligência Artificial do curso Engenharia da Computação do Centro Universitário Ruy Barbosa.
 
 ### Objetivo:
-Recriar o jogo Flappy Bird utilizando a biblioteca LibGDX em JAVA;
+Recriar o jogo Flappy Bird utilizando a biblioteca LibGDX em JAVA; <br />
 Criar um algoritmo genético para jogar;
 
 ### Requisitos:
