@@ -1,13 +1,6 @@
 ## Projeto: Flappy Bird AI
 Desenvolvido como método de avaliação da disciplina Interligência Artificial do curso Engenharia da Computação do Centro Universitário Ruy Barbosa.
 
-### Alunos:
-Lucas Guimarães: 201951174941 <br />
-João Marcelo Tavare Souza Matos: 201851128484 <br />
-Marcos Adryan: 201851448951 <br />
-Diego Felipe Campos Costa: 201951153294 <br />
-Ícaro Lima da Silva: 201951470672 <br />
-
 ### Objetivo:
 Recriar o jogo Flappy Bird utilizando a biblioteca libGDX em JAVA; <br />
 Criar um algoritmo genético para jogar;
