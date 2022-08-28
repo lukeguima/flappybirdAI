@@ -8,7 +8,6 @@ Criar um algoritmo genético para jogar;
 ### Requisitos:
 Fazer download do Set Up a Dev Environment libGDX: https://libgdx.com/wiki/start/setup <br />
 Fazer download do Visual Studio Code: https://code.visualstudio.com/Download  (Indiferente) <br />
-Criar conta no TensorFlow (Ainda não implementado) <br />
 
 ### Resultado do projeto:
 ![playVideo](https://user-images.githubusercontent.com/29000780/172212649-cfa12add-6d86-4b87-a117-c7011f4c6d4d.gif)
